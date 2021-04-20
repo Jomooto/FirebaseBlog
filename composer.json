@@ -1,0 +1,14 @@
+{
+  "name": "vendor_name/blogeek-platzi",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "jomoto",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+  }
+}
